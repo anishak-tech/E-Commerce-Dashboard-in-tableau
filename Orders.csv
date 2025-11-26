@@ -1,0 +1,252 @@
+Order ID,Customer ID,Product,Category,Quantity,Price,Order Date,City,State,Region
+O001,C004,T-shirt,Clothing,3,450,15-11-2025,Bangalore,Karnataka,South India
+O002,C004,Sandals,Footwear,5,289,08-12-2025,Mumbai,Maharashtra,West India
+O003,C002,T-shirt,Clothing,1,423,15-11-2025,Delhi,Delhi,North India
+O004,C018,Sneakers,Footwear,5,1859,15-11-2025,Chennai,Tamil Nadu,South India
+O005,C019,Running Shoes,Footwear,1,1526,15-12-2025,Kolkata,West Bengal,East India
+O006,C011,Running Shoes,Footwear,2,1640,19-12-2025,Ahmedabad,Gujarat,West India
+O007,C004,Jeans,Clothing,4,1099,23-11-2025,Jaipur,Rajasthan,North India
+O008,C020,Running Shoes,Footwear,1,2140,05-12-2025,Hyderabad,Telangana,South India
+O009,C013,Jeans,Clothing,5,1300,24-12-2025,Pune,Maharashtra,West India
+O010,C019,Sneakers,Footwear,1,1093,13-12-2025,Surat,Gujarat,West India
+O011,C010,Jeans,Clothing,2,1887,07-11-2025,Lucknow,Uttar Pradesh,North India
+O012,C009,Handbag,Accessories,3,2166,24-11-2025,Kanpur,Uttar Pradesh,North India
+O013,C007,Sandals,Footwear,3,918,30-12-2025,Nagpur,Maharashtra,West India
+O014,C020,Sandals,Footwear,2,746,17-12-2025,Indore,Madhya Pradesh,Central India
+O015,C006,Handbag,Accessories,4,2605,30-12-2025,Thane,Maharashtra,West India
+O016,C011,Hoodie,Clothing,1,1234,23-12-2025,Bhopal,Madhya Pradesh,Central India
+O017,C011,Cap,Accessories,3,267,14-11-2025,Visakhapatnam,Andhra Pradesh,South India
+O018,C007,Sandals,Footwear,4,605,27-12-2025,Pimpri-Chinchwad,Maharashtra,West India
+O019,C005,Running Shoes,Footwear,2,1705,18-12-2025,Patna,Bihar,East India
+O020,C019,Cap,Accessories,5,608,24-11-2025,Vadodara,Gujarat,West India
+O021,C005,Belt,Accessories,4,146,19-12-2025,Ghaziabad,Uttar Pradesh,North India
+O022,C004,Jacket,Clothing,2,2893,28-11-2025,Ludhiana,Punjab,North India
+O023,C013,Cap,Accessories,5,679,04-12-2025,Agra,Uttar Pradesh,North India
+O024,C018,T-shirt,Clothing,1,749,19-12-2025,Nashik,Maharashtra,West India
+O025,C011,Jeans,Clothing,3,1445,11-11-2025,Faridabad,Haryana,North India
+O026,C001,Dress,Clothing,3,2495,03-12-2025,Meerut,Uttar Pradesh,North India
+O027,C017,Jeans,Clothing,3,1861,11-12-2025,Rajkot,Gujarat,West India
+O028,C005,Boots,Footwear,2,2604,20-12-2025,Varanasi,Uttar Pradesh,North India
+O029,C020,Boots,Footwear,4,1539,08-11-2025,Srinagar,Jammu and Kashmir,North India
+O030,C010,Sneakers,Footwear,1,1493,27-12-2025,Aurangabad,Maharashtra,West India
+O031,C003,Dress,Clothing,4,2335,05-11-2025,Bangalore,Karnataka,South India
+O032,C005,Sandals,Footwear,4,762,11-11-2025,Amritsar,Punjab,North India
+O033,C017,Scarf,Accessories,4,396,14-11-2025,Navi Mumbai,Maharashtra,West India
+O034,C010,Cap,Accessories,3,648,28-12-2025,Allahabad,Uttar Pradesh,North India
+O035,C004,Sneakers,Footwear,2,1131,22-11-2025,Ranchi,Jharkhand,East India
+O036,C019,Belt,Accessories,2,401,15-11-2025,Howrah,West Bengal,East India
+O037,C003,Dress,Clothing,1,1734,05-11-2025,Coimbatore,Tamil Nadu,South India
+O038,C011,Jeans,Clothing,5,1243,18-11-2025,Jabalpur,Madhya Pradesh,Central India
+O039,C007,Belt,Accessories,2,470,30-12-2025,Gwalior,Madhya Pradesh,Central India
+O040,C008,Hoodie,Clothing,4,1826,27-11-2025,Vijayawada,Andhra Pradesh,South India
+O041,C004,Jeans,Clothing,4,1362,28-11-2025,Jodhpur,Rajasthan,North India
+O042,C015,Dress,Clothing,1,2189,12-12-2025,Madurai,Tamil Nadu,South India
+O043,C002,Cap,Accessories,3,311,16-11-2025,Raipur,Chhattisgarh,Central India
+O044,C007,Belt,Accessories,4,171,28-11-2025,Kota,Rajasthan,North India
+O045,C009,Handbag,Accessories,2,1808,29-11-2025,Guwahati,Assam,North East India
+O046,C002,Sandals,Footwear,5,215,06-11-2025,Chandigarh,Chandigarh,North India
+O047,C006,Cap,Accessories,4,692,14-11-2025,Solapur,Maharashtra,West India
+O048,C002,Jacket,Clothing,4,1504,25-11-2025,Hubli-Dharwad,Karnataka,South India
+O049,C015,Running Shoes,Footwear,4,2338,13-12-2025,Bareilly,Uttar Pradesh,North India
+O050,C005,Sneakers,Footwear,3,1445,04-11-2025,Mysore,Karnataka,South India
+O051,C011,T-shirt,Clothing,1,798,01-12-2025,Aligarh,Uttar Pradesh,North India
+O052,C002,Belt,Accessories,1,195,05-11-2025,Tiruppur,Tamil Nadu,South India
+O053,C008,Cap,Accessories,1,783,16-11-2025,Gurgaon,Haryana,North India
+O054,C020,Jeans,Clothing,4,1673,08-12-2025,Moradabad,Uttar Pradesh,North India
+O055,C009,Sneakers,Footwear,3,1488,17-11-2025,Jalandhar,Punjab,North India
+O056,C005,Sandals,Footwear,3,668,21-11-2025,Bhubaneswar,Odisha,East India
+O057,C001,Handbag,Accessories,5,3806,07-11-2025,Salem,Tamil Nadu,South India
+O058,C018,Sneakers,Footwear,5,1543,09-11-2025,Bangalore,Karnataka,South India
+O059,C003,Sneakers,Footwear,3,1583,11-11-2025,Warangal,Telangana,South India
+O060,C018,Dress,Clothing,3,2126,22-12-2025,Guntur,Andhra Pradesh,South India
+O061,C018,Running Shoes,Footwear,1,1475,17-11-2025,Bhilai,Chhattisgarh,Central India
+O062,C004,Dress,Clothing,5,1659,18-11-2025,Amravati,Maharashtra,West India
+O063,C020,Sneakers,Footwear,3,1416,14-12-2025,Bangalore,Karnataka,South India
+O064,C017,Handbag,Accessories,3,4965,04-11-2025,Bikaner,Rajasthan,North India
+O065,C014,Running Shoes,Footwear,1,1207,22-11-2025,Noida,Uttar Pradesh,North India
+O066,C009,Jacket,Clothing,4,2629,16-12-2025,Jamshedpur,Jharkhand,East India
+O067,C018,T-shirt,Clothing,1,277,27-12-2025,Kochi,Kerala,South India
+O068,C018,T-shirt,Clothing,3,796,06-12-2025,Cuttack,Odisha,East India
+O069,C014,Jacket,Clothing,1,2131,24-11-2025,Bangalore,Karnataka,South India
+O070,C012,Sneakers,Footwear,2,2365,07-11-2025,Firozabad,Uttar Pradesh,North India
+O071,C018,Cap,Accessories,5,358,30-12-2025,Dehradun,Uttarakhand,North India
+O072,C006,Hoodie,Clothing,2,1902,27-11-2025,Bangalore,Karnataka,South India
+O073,C006,Dress,Clothing,3,2301,30-12-2025,Gorakhpur,Uttar Pradesh,North India
+O074,C008,Running Shoes,Footwear,2,1421,25-11-2025,Siliguri,West Bengal,East India
+O075,C016,Sneakers,Footwear,2,2672,29-12-2025,Bangalore,Karnataka,South India
+O076,C012,Running Shoes,Footwear,2,1656,02-11-2025,Rourkela,Odisha,East India
+O077,C013,Boots,Footwear,3,3270,05-11-2025,Mangalore,Karnataka,South India
+O078,C012,Sandals,Footwear,5,609,14-12-2025,Bangalore,Karnataka,South India
+O079,C001,Jeans,Clothing,3,1182,08-12-2025,Gulbarga,Karnataka,South India
+O080,C002,Jeans,Clothing,5,1444,23-11-2025,Bangalore,Karnataka,South India
+O081,C014,Scarf,Accessories,5,179,25-11-2025,Daudnagar,Bihar,East India
+O082,C009,T-shirt,Clothing,4,201,04-12-2025,Jammu,Jammu and Kashmir,North India
+O083,C012,Cap,Accessories,1,538,10-12-2025,Ujjain,Madhya Pradesh,Central India
+O084,C004,Dress,Clothing,3,2019,20-11-2025,Bangalore,Karnataka,South India
+O085,C011,Cap,Accessories,3,767,09-11-2025,Sagar,Madhya Pradesh,Central India
+O086,C014,Sandals,Footwear,4,893,18-12-2025,Tirunelveli,Tamil Nadu,South India
+O087,C020,Scarf,Accessories,3,253,06-12-2025,Bangalore,Karnataka,South India
+O088,C010,Running Shoes,Footwear,2,2080,21-12-2025,Malegaon,Maharashtra,West India
+O089,C015,Handbag,Accessories,4,4267,14-11-2025,Gaya,Bihar,East India
+O090,C006,Sandals,Footwear,1,490,03-12-2025,Bangalore,Karnataka,South India
+O091,C003,Hoodie,Clothing,2,1688,20-11-2025,Jalgaon,Maharashtra,West India
+O092,C007,Jacket,Clothing,1,1594,16-11-2025,Durgapur,West Bengal,East India
+O093,C020,Hoodie,Clothing,1,1466,27-11-2025,Bangalore,Karnataka,South India
+O094,C013,Handbag,Accessories,4,2499,10-11-2025,Asansol,West Bengal,East India
+O095,C004,Hoodie,Clothing,4,1224,12-11-2025,Tirupati,Andhra Pradesh,South India
+O096,C002,Belt,Accessories,2,162,30-11-2025,Bangalore,Karnataka,South India
+O097,C015,Sandals,Footwear,5,772,09-12-2025,Kolhapur,Maharashtra,West India
+O098,C015,Scarf,Accessories,5,259,24-12-2025,Bangalore,Karnataka,South India
+O099,C006,Dress,Clothing,4,1960,17-11-2025,Rohtak,Haryana,North India
+O100,C009,Hoodie,Clothing,5,1496,11-12-2025,Bangalore,Karnataka,South India
+O101,C009,Handbag,Accessories,1,4422,19-11-2025,Bangalore,Karnataka,South India
+O102,C009,Boots,Footwear,3,3328,05-12-2025,Mumbai,Maharashtra,West India
+O103,C005,Jacket,Clothing,2,2284,15-12-2025,Delhi,Delhi,North India
+O104,C007,Jeans,Clothing,4,1417,22-11-2025,Chennai,Tamil Nadu,South India
+O105,C014,T-shirt,Clothing,2,630,25-11-2025,Kolkata,West Bengal,East India
+O106,C019,Cap,Accessories,4,206,23-11-2025,Ahmedabad,Gujarat,West India
+O107,C013,Cap,Accessories,5,759,22-12-2025,Jaipur,Rajasthan,North India
+O108,C016,Sneakers,Footwear,3,1892,02-12-2025,Hyderabad,Telangana,South India
+O109,C013,Boots,Footwear,4,2983,11-11-2025,Pune,Maharashtra,West India
+O110,C005,Scarf,Accessories,5,156,29-12-2025,Surat,Gujarat,West India
+O111,C019,Scarf,Accessories,1,171,12-12-2025,Lucknow,Uttar Pradesh,North India
+O112,C005,Handbag,Accessories,2,1705,17-11-2025,Kanpur,Uttar Pradesh,North India
+O113,C011,Sneakers,Footwear,4,1669,22-11-2025,Nagpur,Maharashtra,West India
+O114,C009,Hoodie,Clothing,4,1258,24-12-2025,Indore,Madhya Pradesh,Central India
+O115,C016,T-shirt,Clothing,5,253,23-11-2025,Thane,Maharashtra,West India
+O116,C003,Hoodie,Clothing,1,1772,02-11-2025,Bhopal,Madhya Pradesh,Central India
+O117,C007,T-shirt,Clothing,5,356,16-11-2025,Visakhapatnam,Andhra Pradesh,South India
+O118,C016,Sandals,Footwear,1,777,14-11-2025,Pimpri-Chinchwad,Maharashtra,West India
+O119,C009,Hoodie,Clothing,3,1171,09-12-2025,Patna,Bihar,East India
+O120,C006,Running Shoes,Footwear,1,2385,02-11-2025,Vadodara,Gujarat,West India
+O121,C019,Sandals,Footwear,4,606,16-12-2025,Ghaziabad,Uttar Pradesh,North India
+O122,C003,Scarf,Accessories,2,176,15-12-2025,Ludhiana,Punjab,North India
+O123,C020,Hoodie,Clothing,1,1815,07-12-2025,Agra,Uttar Pradesh,North India
+O124,C012,Belt,Accessories,4,438,24-11-2025,Nashik,Maharashtra,West India
+O125,C017,Sandals,Footwear,3,212,25-12-2025,Faridabad,Haryana,North India
+O126,C016,Jeans,Clothing,4,1983,24-11-2025,Meerut,Uttar Pradesh,North India
+O127,C005,Cap,Accessories,2,734,12-12-2025,Rajkot,Gujarat,West India
+O128,C020,Hoodie,Clothing,5,1793,01-12-2025,Varanasi,Uttar Pradesh,North India
+O129,C014,Dress,Clothing,5,1774,21-11-2025,Srinagar,Jammu and Kashmir,North India
+O130,C003,Running Shoes,Footwear,4,1699,19-12-2025,Aurangabad,Maharashtra,West India
+O131,C019,Scarf,Accessories,4,236,02-11-2025,Bangalore,Karnataka,South India
+O132,C011,Jacket,Clothing,4,1934,23-11-2025,Amritsar,Punjab,North India
+O133,C011,Running Shoes,Footwear,5,1765,06-12-2025,Navi Mumbai,Maharashtra,West India
+O134,C017,Sneakers,Footwear,1,1494,17-12-2025,Allahabad,Uttar Pradesh,North India
+O135,C016,Belt,Accessories,2,453,01-12-2025,Ranchi,Jharkhand,East India
+O136,C015,Hoodie,Clothing,1,1095,19-11-2025,Howrah,West Bengal,East India
+O137,C013,Dress,Clothing,2,1813,13-12-2025,Coimbatore,Tamil Nadu,South India
+O138,C016,Belt,Accessories,5,276,28-11-2025,Jabalpur,Madhya Pradesh,Central India
+O139,C012,Dress,Clothing,4,1777,20-11-2025,Gwalior,Madhya Pradesh,Central India
+O140,C008,Jeans,Clothing,2,1323,08-11-2025,Vijayawada,Andhra Pradesh,South India
+O141,C007,Sneakers,Footwear,4,1566,17-12-2025,Jodhpur,Rajasthan,North India
+O142,C004,Sneakers,Footwear,3,1465,24-11-2025,Madurai,Tamil Nadu,South India
+O143,C010,T-shirt,Clothing,5,329,18-11-2025,Raipur,Chhattisgarh,Central India
+O144,C002,Belt,Accessories,3,457,09-11-2025,Kota,Rajasthan,North India
+O145,C004,T-shirt,Clothing,5,491,01-12-2025,Guwahati,Assam,North East India
+O146,C015,Boots,Footwear,2,3477,04-11-2025,Chandigarh,Chandigarh,North India
+O147,C016,Jeans,Clothing,1,1410,02-12-2025,Solapur,Maharashtra,West India
+O148,C019,Sandals,Footwear,1,355,10-11-2025,Hubli-Dharwad,Karnataka,South India
+O149,C003,Sneakers,Footwear,1,2142,19-12-2025,Bareilly,Uttar Pradesh,North India
+O150,C020,Scarf,Accessories,5,207,20-12-2025,Mysore,Karnataka,South India
+O151,C015,Handbag,Accessories,3,3910,28-11-2025,Aligarh,Uttar Pradesh,North India
+O152,C019,Scarf,Accessories,1,306,18-12-2025,Tiruppur,Tamil Nadu,South India
+O153,C007,Sandals,Footwear,2,470,13-12-2025,Gurgaon,Haryana,North India
+O154,C006,Sneakers,Footwear,2,2130,05-11-2025,Moradabad,Uttar Pradesh,North India
+O155,C001,Cap,Accessories,4,681,19-11-2025,Jalandhar,Punjab,North India
+O156,C008,Running Shoes,Footwear,3,2129,05-11-2025,Bhubaneswar,Odisha,East India
+O157,C009,Hoodie,Clothing,5,1677,22-12-2025,Salem,Tamil Nadu,South India
+O158,C014,Jeans,Clothing,5,1230,12-12-2025,Bangalore,Karnataka,South India
+O159,C009,Jacket,Clothing,1,1622,11-11-2025,Warangal,Telangana,South India
+O160,C020,Dress,Clothing,5,2443,19-11-2025,Guntur,Andhra Pradesh,South India
+O161,C004,Handbag,Accessories,3,4366,26-11-2025,Bhilai,Chhattisgarh,Central India
+O162,C017,Belt,Accessories,4,324,06-11-2025,Amravati,Maharashtra,West India
+O163,C014,Dress,Clothing,3,2118,17-11-2025,Bangalore,Karnataka,South India
+O164,C003,Sneakers,Footwear,5,2202,02-11-2025,Bikaner,Rajasthan,North India
+O165,C019,T-shirt,Clothing,2,681,04-12-2025,Noida,Uttar Pradesh,North India
+O166,C009,Jacket,Clothing,5,2392,11-12-2025,Jamshedpur,Jharkhand,East India
+O167,C003,Handbag,Accessories,3,3172,22-11-2025,Kochi,Kerala,South India
+O168,C004,Jacket,Clothing,3,2343,15-12-2025,Cuttack,Odisha,East India
+O169,C010,Sandals,Footwear,4,978,06-12-2025,Bangalore,Karnataka,South India
+O170,C015,Jeans,Clothing,3,1258,21-11-2025,Firozabad,Uttar Pradesh,North India
+O171,C013,Belt,Accessories,1,436,26-12-2025,Dehradun,Uttarakhand,North India
+O172,C014,T-shirt,Clothing,2,730,24-11-2025,Bangalore,Karnataka,South India
+O173,C015,Hoodie,Clothing,1,1208,18-11-2025,Gorakhpur,Uttar Pradesh,North India
+O174,C010,Handbag,Accessories,4,1997,02-11-2025,Siliguri,West Bengal,East India
+O175,C006,Running Shoes,Footwear,5,1228,06-12-2025,Bangalore,Karnataka,South India
+O176,C003,Sneakers,Footwear,1,1945,08-11-2025,Rourkela,Odisha,East India
+O177,C016,Dress,Clothing,3,2021,16-12-2025,Mangalore,Karnataka,South India
+O178,C014,Handbag,Accessories,4,2498,30-11-2025,Bangalore,Karnataka,South India
+O179,C013,Sneakers,Footwear,5,2040,18-12-2025,Gulbarga,Karnataka,South India
+O180,C003,Running Shoes,Footwear,4,1896,30-12-2025,Bangalore,Karnataka,South India
+O181,C001,Running Shoes,Footwear,3,2402,08-12-2025,Daudnagar,Bihar,East India
+O182,C005,Handbag,Accessories,5,3483,23-11-2025,Jammu,Jammu and Kashmir,North India
+O183,C018,Hoodie,Clothing,5,1386,30-11-2025,Ujjain,Madhya Pradesh,Central India
+O184,C007,Dress,Clothing,2,2085,25-11-2025,Bangalore,Karnataka,South India
+O185,C014,T-shirt,Clothing,3,684,16-12-2025,Sagar,Madhya Pradesh,Central India
+O186,C013,Sandals,Footwear,2,707,03-11-2025,Tirunelveli,Tamil Nadu,South India
+O187,C017,Scarf,Accessories,3,372,07-11-2025,Bangalore,Karnataka,South India
+O188,C004,Belt,Accessories,4,107,17-12-2025,Malegaon,Maharashtra,West India
+O189,C014,Sandals,Footwear,2,276,01-12-2025,Gaya,Bihar,East India
+O190,C011,Scarf,Accessories,4,316,06-11-2025,Bangalore,Karnataka,South India
+O191,C018,Cap,Accessories,3,699,26-12-2025,Jalgaon,Maharashtra,West India
+O192,C020,Jeans,Clothing,2,1646,14-12-2025,Durgapur,West Bengal,East India
+O193,C008,Dress,Clothing,1,1944,07-11-2025,Bangalore,Karnataka,South India
+O194,C015,Jacket,Clothing,3,1559,03-11-2025,Asansol,West Bengal,East India
+O195,C002,Running Shoes,Footwear,3,1967,28-11-2025,Tirupati,Andhra Pradesh,South India
+O196,C008,Belt,Accessories,4,389,14-12-2025,Bangalore,Karnataka,South India
+O197,C006,Jacket,Clothing,1,2748,26-12-2025,Kolhapur,Maharashtra,West India
+O198,C020,Sandals,Footwear,2,709,29-12-2025,Bangalore,Karnataka,South India
+O199,C008,Handbag,Accessories,3,3382,17-11-2025,Rohtak,Haryana,North India
+O200,C015,Running Shoes,Footwear,5,1523,05-11-2025,Bangalore,Karnataka,South India
+O201,C012,Scarf,Accessories,3,313,28-11-2025,Bangalore,Karnataka,South India
+O202,C015,Running Shoes,Footwear,2,1987,25-12-2025,Mumbai,Maharashtra,West India
+O203,C004,Sneakers,Footwear,4,2171,23-11-2025,Delhi,Delhi,North India
+O204,C010,T-shirt,Clothing,4,481,01-11-2025,Chennai,Tamil Nadu,South India
+O205,C020,Dress,Clothing,4,2352,28-12-2025,Kolkata,West Bengal,East India
+O206,C008,Scarf,Accessories,3,206,11-12-2025,Ahmedabad,Gujarat,West India
+O207,C020,Running Shoes,Footwear,2,2486,07-11-2025,Jaipur,Rajasthan,North India
+O208,C010,Hoodie,Clothing,4,1034,08-12-2025,Hyderabad,Telangana,South India
+O209,C005,Jeans,Clothing,3,1334,18-12-2025,Pune,Maharashtra,West India
+O210,C006,Sneakers,Footwear,2,2610,05-12-2025,Surat,Gujarat,West India
+O211,C017,Belt,Accessories,3,184,17-11-2025,Lucknow,Uttar Pradesh,North India
+O212,C010,Dress,Clothing,3,2323,08-11-2025,Kanpur,Uttar Pradesh,North India
+O213,C003,Jacket,Clothing,2,2885,17-12-2025,Nagpur,Maharashtra,West India
+O214,C018,Boots,Footwear,1,3119,26-11-2025,Indore,Madhya Pradesh,Central India
+O215,C009,Belt,Accessories,1,332,24-11-2025,Thane,Maharashtra,West India
+O216,C019,Cap,Accessories,3,310,14-12-2025,Bhopal,Madhya Pradesh,Central India
+O217,C016,T-shirt,Clothing,5,774,21-11-2025,Visakhapatnam,Andhra Pradesh,South India
+O218,C003,Sandals,Footwear,4,917,20-11-2025,Pimpri-Chinchwad,Maharashtra,West India
+O219,C004,Jacket,Clothing,1,1576,20-11-2025,Patna,Bihar,East India
+O220,C004,Jeans,Clothing,2,1908,05-12-2025,Vadodara,Gujarat,West India
+O221,C013,Handbag,Accessories,3,4246,18-12-2025,Ghaziabad,Uttar Pradesh,North India
+O222,C019,Dress,Clothing,2,2406,27-11-2025,Ludhiana,Punjab,North India
+O223,C016,Scarf,Accessories,4,390,18-11-2025,Agra,Uttar Pradesh,North India
+O224,C012,Sneakers,Footwear,4,1910,16-11-2025,Nashik,Maharashtra,West India
+O225,C004,Sandals,Footwear,3,757,28-12-2025,Faridabad,Haryana,North India
+O226,C002,Cap,Accessories,3,394,08-11-2025,Meerut,Uttar Pradesh,North India
+O227,C003,Sandals,Footwear,2,857,11-12-2025,Rajkot,Gujarat,West India
+O228,C002,Hoodie,Clothing,3,1249,09-11-2025,Varanasi,Uttar Pradesh,North India
+O229,C003,Hoodie,Clothing,5,1212,08-12-2025,Srinagar,Jammu and Kashmir,North India
+O230,C008,Boots,Footwear,2,3115,28-12-2025,Aurangabad,Maharashtra,West India
+O231,C009,Jacket,Clothing,2,2606,17-11-2025,Bangalore,Karnataka,South India
+O232,C004,Sandals,Footwear,1,334,01-11-2025,Amritsar,Punjab,North India
+O233,C008,Scarf,Accessories,3,154,12-11-2025,Navi Mumbai,Maharashtra,West India
+O234,C002,Jacket,Clothing,4,2577,08-11-2025,Allahabad,Uttar Pradesh,North India
+O235,C016,Handbag,Accessories,3,3602,08-12-2025,Ranchi,Jharkhand,East India
+O236,C015,Belt,Accessories,2,414,03-11-2025,Howrah,West Bengal,East India
+O237,C015,Sandals,Footwear,1,262,01-12-2025,Coimbatore,Tamil Nadu,South India
+O238,C014,Sandals,Footwear,1,702,16-12-2025,Jabalpur,Madhya Pradesh,Central India
+O239,C003,Jeans,Clothing,3,1622,10-11-2025,Gwalior,Madhya Pradesh,Central India
+O240,C005,Running Shoes,Footwear,5,2496,08-12-2025,Vijayawada,Andhra Pradesh,South India
+O241,C013,Scarf,Accessories,5,225,30-11-2025,Jodhpur,Rajasthan,North India
+O242,C004,Hoodie,Clothing,1,1873,12-12-2025,Madurai,Tamil Nadu,South India
+O243,C014,Handbag,Accessories,2,3194,22-11-2025,Raipur,Chhattisgarh,Central India
+O244,C013,Cap,Accessories,1,520,28-11-2025,Kota,Rajasthan,North India
+O245,C009,Boots,Footwear,2,2906,30-12-2025,Guwahati,Assam,North East India
+O246,C003,Jeans,Clothing,1,1095,28-11-2025,Chandigarh,Chandigarh,North India
+O247,C012,Hoodie,Clothing,2,1569,04-11-2025,Solapur,Maharashtra,West India
+O248,C004,Cap,Accessories,3,633,26-12-2025,Hubli-Dharwad,Karnataka,South India
+O249,C010,Scarf,Accessories,3,240,07-11-2025,Bareilly,Uttar Pradesh,North India
+O250,C005,Sandals,Footwear,4,429,25-12-2025,Mysore,Karnataka,South India
+,,,,,,,Aligarh,Uttar Pradesh,North India
