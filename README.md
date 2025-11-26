@@ -1,229 +1,198 @@
-📊 Trendy E-Commerce Sales Analytics Report
-1.Summary
+# **📊 Trendy E-Commerce Sales Analytics Report**
+
+## **1. Executive Summary**
 
 This project analyzes sales, customer behavior, regional performance, product categories, and demographic insights for Trendy E-Commerce, an online retailer of clothing, footwear, and accessories. The goal was to create an interactive dashboard that helps management make decisions about marketing, inventory, pricing, and customer targeting.
 
 The analysis reveals:
 
-Clothing drives the highest revenue.
-
-Most customers purchase during weekends and month-ends.
-
-North and West regions generate the majority of sales.
-
-Young adults (18–35) are the primary buyers.
-
-Accessories have high potential but low visibility.
+* Clothing drives the highest revenue.
+* Most customers purchase during weekends and month-ends.
+* North and West regions generate the majority of sales.
+* Young adults (18–35) are the primary buyers.
+* Accessories have high potential but low visibility.
 
 The findings help the company optimize inventory, focus on profitable regions, and run targeted campaigns.
 
-2. Business Problem Statement
+---
+
+## **2. Business Problem Statement**
 
 Trendy E-Commerce wants to move from guesswork to data-driven decisions. The management needs answers to five key areas:
 
-Sales performance across products and categories
-
-Customer purchasing patterns
-
-Regional revenue differences
-
-Time-based trends for forecasting
-
-Demographic insights for personalized marketing
+1. **Sales performance** across products and categories
+2. **Customer purchasing patterns**
+3. **Regional revenue differences**
+4. **Time-based trends** for forecasting
+5. **Demographic insights** for personalized marketing
 
 This dashboard solves these problems by organizing and visualizing sales, customer, and product data.
 
-3. Dataset Overview
+---
+
+## **3. Dataset Overview**
 
 The dataset contains fields such as:
 
-Order ID
+* Order ID
+* Order Date
+* Customer ID
+* Product Name
+* Category (Clothing, Footwear, Accessories)
+* Price
+* Quantity
+* Total Sales
+* Region / State
+* Age
+* Gender
 
-Order Date
+Total records: **200–500 (depending on your input dataset size)**
+Time range: **12 months**
 
-Customer ID
+---
 
-Product Name
-
-Category (Clothing, Footwear, Accessories)
-
-Price
-
-Quantity
-
-Total Sales
-
-Region / State
-
-Age
-
-Gender
-
-Total records: 200–500 (depending on your input dataset size)
-Time range: 12 months
-
-4. Data Cleaning & Preprocessing
+## **4. Data Cleaning & Preprocessing**
 
 The following cleaning steps were performed:
 
-✔ Handling Missing Values
+### **✔ Handling Missing Values**
 
-Replaced missing state values based on customer pin-codes.
+* Replaced missing `state` values based on customer pin-codes.
+* Forward-filled missing dates where applicable.
 
-Forward-filled missing dates where applicable.
+### **✔ Data Type Fixes**
 
-✔ Data Type Fixes
+* Converted `Order Date` to Date format.
+* Converted `Sales` and `Quantity` into numeric fields.
 
-Converted Order Date to Date format.
+### **✔ Calculated Fields Created**
 
-Converted Sales and Quantity into numeric fields.
+* **Total Sales = Quantity × Price**
+* **Profit Margin (optional)**
+* **Age Group (18–25, 26–35, 36–45, 46+)**
+* **Weekday/Weekend**
+* **Month Name**
 
-✔ Calculated Fields Created
+### ✔ **Duplicates Removed**
 
-Total Sales = Quantity × Price
+* Removed duplicate Order IDs.
 
-Profit Margin (optional)
+---
 
-Age Group (18–25, 26–35, 36–45, 46+)
-
-Weekday/Weekend
-
-Month Name
-
-✔ Duplicates Removed
-
-Removed duplicate Order IDs.
-
-5. Key Performance Indicators (KPIs)
+## **5. Key Performance Indicators (KPIs)**
 
 The dashboard highlights the following KPIs:
 
-Total Sales
+1. **Total Sales**
+2. **Total Orders**
+3. **Average Order Value (AOV)**
+4. **Sales by Category**
+5. **Top 5 Products**
+6. **Repeat Customer Rate**
 
-Total Orders
+---
 
-Average Order Value (AOV)
-
-Sales by Category
-
-Top 5 Products
-
-Repeat Customer Rate
-
-6. Dashboard Visualizations
+## **6. Dashboard Visualizations**
 
 Your dashboard includes:
 
-1) KPI Cards
+### **1) KPI Cards**
 
 Shows overall business performance at a glance.
 
-2) Category Sales Bar Chart
+### **2) Category Sales Bar Chart**
 
-Clothing drives the most sales (approx. 45–55%).
+* Clothing drives the most sales (approx. 45–55%).
+* Accessories have the lowest share (10–15%).
 
-Accessories have the lowest share (10–15%).
+### **3) State/Regional Map**
 
-3) State/Regional Map
+* North and West regions contribute the most revenue.
+* East has lower penetration.
 
-North and West regions contribute the most revenue.
+### **4) Sales Trend Line**
 
-East has lower penetration.
+* Sales spike during weekends.
+* Strong month-end buying behavior.
+* Best months: November, December (festive season).
 
-4) Sales Trend Line
+### **5) Customer Demographic Chart**
 
-Sales spike during weekends.
+* Age group 18–35 dominates purchases.
+* Women make slightly more orders than men (depending on your dataset).
 
-Strong month-end buying behavior.
+### **6) Top Products Table**
 
-Best months: November, December (festive season).
+* Footwear shows fewer orders but high average order value.
 
-5) Customer Demographic Chart
+---
 
-Age group 18–35 dominates purchases.
+## **7. Insights**
 
-Women make slightly more orders than men (depending on your dataset).
+### **A) Product Insights**
 
-6) Top Products Table
+* Clothing is the top-performing category.
+* Footwear has high margins but lower volume.
+* Accessories need more visibility.
 
-Footwear shows fewer orders but high average order value.
+### **B) Customer Behavior**
 
-7. Insights
-A) Product Insights
+* Younger customers (18–35) drive most sales.
+* Weekend orders are 20–30% higher than weekdays.
+* High conversion during festival months shows strong seasonal demand.
 
-Clothing is the top-performing category.
+### **C) Regional Trends**
 
-Footwear has high margins but lower volume.
+* North and West regions show high order frequency.
+* South shows consistent but moderate sales.
+* East and Northeast need targeted campaigns.
 
-Accessories need more visibility.
+### **D) Time Trends**
 
-B) Customer Behavior
+* End-of-month salary periods show spikes.
+* Quarter 4 (Oct–Dec) is the peak season.
 
-Younger customers (18–35) drive most sales.
+---
 
-Weekend orders are 20–30% higher than weekdays.
+## **8. Business Recommendations**
 
-High conversion during festival months shows strong seasonal demand.
+### **1. Boost Accessories Sales**
 
-C) Regional Trends
+* Display accessories as add-ons during checkout.
+* Bundle deals with clothing.
 
-North and West regions show high order frequency.
+### **2. Increase Marketing in High-Growth Regions**
 
-South shows consistent but moderate sales.
+* Double ad spend in North & West.
+* Improve delivery speed in South.
 
-East and Northeast need targeted campaigns.
+### **3. Inventory Planning**
 
-D) Time Trends
+* Stock more clothing during Q4.
+* Prepare for weekend spikes.
+* Reduce stock of slow-moving items.
 
-End-of-month salary periods show spikes.
+### **4. Targeted Campaigns**
 
-Quarter 4 (Oct–Dec) is the peak season.
+* Focus on ages **18–35** with influencer marketing.
+* Run gender-specific promotions (e.g., women’s apparel ads).
+* Festive discounts for Diwali/Christmas.
 
-8. Business Recommendations
-1. Boost Accessories Sales
+### **5. Improve Customer Retention**
 
-Display accessories as add-ons during checkout.
+* Loyalty program for repeat customers.
+* Free delivery for high-value orders.
 
-Bundle deals with clothing.
+---
 
-2. Increase Marketing in High-Growth Regions
-
-Double ad spend in North & West.
-
-Improve delivery speed in South.
-
-3. Inventory Planning
-
-Stock more clothing during Q4.
-
-Prepare for weekend spikes.
-
-Reduce stock of slow-moving items.
-
-4. Targeted Campaigns
-
-Focus on ages 18–35 with influencer marketing.
-
-Run gender-specific promotions (e.g., women’s apparel ads).
-
-Festive discounts for Diwali/Christmas.
-
-5. Improve Customer Retention
-
-Loyalty program for repeat customers.
-
-Free delivery for high-value orders.
-
-9. Conclusion
+## **9. Conclusion**
 
 The Trendy E-Commerce dashboard provides clear insights into customer preferences, regional performance, category demand, and time-based patterns. With these insights, the company can:
 
-Improve inventory planning
-
-Run more effective marketing
-
-Boost sales in underperforming regions
-
-Personalize customer experience
+* Improve inventory planning
+* Run more effective marketing
+* Boost sales in underperforming regions
+* Personalize customer experience
 
 This project demonstrates strong skills in data cleaning, visualization, dashboard design, and business interpretation.
+
