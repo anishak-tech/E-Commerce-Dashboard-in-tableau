@@ -1,4 +1,4 @@
-#**📊[ Trendy E-Commerce Sales Analytics Report**](https://public.tableau.com/views/E-CommerceDashboard_17641156125650/E-CommerceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# **📊[ Trendy E-Commerce Sales Analytics Report**](https://public.tableau.com/views/E-CommerceDashboard_17641156125650/E-CommerceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## **1. Summary**
 
 This project analyzes sales, customer behavior, regional performance, product categories, and demographic insights for Trendy E-Commerce, an online retailer of clothing, footwear, and accessories. The goal was to create an interactive dashboard that helps management make decisions about marketing, inventory, pricing, and customer targeting.
