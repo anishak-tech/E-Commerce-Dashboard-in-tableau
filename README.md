@@ -194,5 +194,5 @@ The Trendy E-Commerce dashboard provides clear insights into customer preference
 * Personalize customer experience
 
 This project demonstrates strong skills in data cleaning, visualization, dashboard design, and business interpretation.
-#DASHBOARD : 
+
 
